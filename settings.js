@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'http://localhost:1340';
+exports.url = 'https://sendgridtestkp.herokuapp.com';
 
 exports.senderEmail = "marcos@keepdoo.com";
 exports.senderName = "Marcos";
